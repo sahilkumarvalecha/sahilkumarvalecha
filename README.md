@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Sahil Kumar Valecha
+🚀 About Me
+I'm a third-year Computer Science student at SZABIST Karachi with over three years of experience in programming and technology. I’m passionate about Web Development, Data Science, and Artificial Intelligence and enjoy solving real-world problems with code.
 
-<!--
-**sahilkumarvalecha/sahilkumarvalecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills & Tools
+Frontend: HTML, CSS, JavaScript, Bootstrap, JQuery, Angular
+Backend: PHP, ASP.NET, MySQL, Microsoft SQL, Laravel
+App Development: Flutter, Dart
+DevOps: Azure, GitHub, Agile
+Languages: C, Java, C#
+🎬 Beyond Tech
+I'm an aspiring filmmaker with a creative mindset. Currently, I’m working on my first short film to explore storytelling through visuals.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me
+Email: sahilvalecha95@gmail.com
+LinkedIn: https://www.linkedin.com/in/sahil-kumar-valecha-3a13a1238/
+GitHub: Sahil Kumar Valecha
+Let's collaborate and build something innovative!
