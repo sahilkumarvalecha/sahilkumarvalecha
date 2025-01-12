@@ -2,7 +2,7 @@
 
 **`Computer Science Student | Tech Enthusiast | Aspiring Filmmaker`**
 
-I'm a third-year Computer Science student at SZABIST Karachi with over three years of experience in programming and technology. I have a passion for Web Development, Data Science, and Artificial Intelligence, and I enjoy solving real-world problems through code.
+I'm a Sophemore Computer Science student at SZABIST Karachi with over three years of experience in programming and technology. I have a passion for Web Development, Data Structures. and I enjoy solving real-world problems through code.
 
 - 🔭 **Currently working on:** Data Structures And Algorithms.
 - 🌱 **Currently learning:** React, Backend development to become a full-stack developer.
