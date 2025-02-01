@@ -38,8 +38,6 @@ I'm a Sophomore Computer Science student at SZABIST Karachi with over three year
 
 ## GitHub Stats:
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilkumarvalecha&show_icons=true&hide=stars&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumarvalecha&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sahilkumarvalecha&theme=dark)](https://git.io/streak-stats)
