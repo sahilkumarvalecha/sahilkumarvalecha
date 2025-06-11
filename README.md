@@ -37,6 +37,21 @@ I'm a Sophomore Computer Science student at SZABIST Karachi with over three year
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## GitHub Stats:
+<!--- trophy (start) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=1010nishant&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
+    </a>
+</div>
+<!--- trophy (start) -->
+<p></p>        
+<!--- stats (end) -->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumarvalecha&layout=compact)
 
