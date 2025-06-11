@@ -39,7 +39,7 @@ I'm a Sophomore Computer Science student at SZABIST Karachi with over three year
 ## GitHub Stats:
 ![sahilkumarvalecha's Stats](https://github-readme-stats.vercel.app/api?username=sahilkumarvalecha&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
-![sahilkumarvalecha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilkumarvalecha&theme=dark&hide_border=false)
+![sahilkumarvalecha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilkumarvalecha&theme=midnight-purple&hide_border=true)
 
 ![sahilkumarvalecha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumarvalecha&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
@@ -48,6 +48,10 @@ I'm a Sophomore Computer Science student at SZABIST Karachi with over three year
 Here are some of my notable projects:
 
 ## Notable Projects:
+
+
+- **[EcoTracker – Environmental Reporting Platform](https://github.com/sahilkumarvalecha/EcoTracker)**  
+A full-stack civic tech platform built with Node.js, Express, and PostgreSQL (NeonDB) that enables users to report environmental issues in real time. Features include anonymous reporting, interactive map filters, upvote/downvote system, comment-enabled EcoFeed, and a secure admin panel for report moderation.
 
 - **[Data Structures Management Systems](https://github.com/sahilkumarvalecha/Data-Structures-Management-Systems)**  
   A collection of small programming tasks and assignments focused on implementing and practicing various data structures, including queues, stacks, arrays, and binary trees.  
