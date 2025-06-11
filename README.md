@@ -37,8 +37,11 @@ I'm a Sophomore Computer Science student at SZABIST Karachi with over three year
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## GitHub Stats:
+![sahilkumarvalecha's Stats](https://github-readme-stats.vercel.app/api?username=sahilkumarvalecha&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ![sahilkumarvalecha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilkumarvalecha&theme=dark&hide_border=false)
+
+![sahilkumarvalecha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumarvalecha&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 ## Projects:
 
