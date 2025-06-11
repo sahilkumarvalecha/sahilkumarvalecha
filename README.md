@@ -37,23 +37,8 @@ I'm a Sophomore Computer Science student at SZABIST Karachi with over three year
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## GitHub Stats:
-  <!--- stats (start) -->
-</p>
-<table align="center">
-<tbody><tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
-  <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&amp;theme=dark&amp;hide_border=false"> 
-</td><td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-  </td>
-</tr>
-</tbody></table>
-<!--- stats (end) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumarvalecha&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sahilkumarvalecha&theme=dark)](https://git.io/streak-stats)
+![sahilkumarvalecha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilkumarvalecha&theme=dark&hide_border=false)
 
 ## Projects:
 
